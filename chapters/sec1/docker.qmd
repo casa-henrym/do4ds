@@ -4,7 +4,7 @@ If you're in the data science world, especially the world of "production data sc
 
 This chapter is designed to clarify what Docker is and how it might help you. We'll start with a general intro to Docker, proceed with some discussion of data science-relevant Docker workflows, and then dive in to a hands-on lab that will be just the thing to get you started if you're not sure where to go.
 
-It's worth noting that there are many entire books on how to use Docker in a software engineering context. This chapter is really just meant to give you a jumping off point. If you find that you want to get deep, I'd recommend you pick up another resource after this.
+It's worth noting that there are many books on how to use Docker in a software engineering context. This chapter is really just meant to give you a jumping off point. If you find that you want to get deep, I'd recommend you pick up another resource after this.
 
 ## Containers are a Packaging Tool
 
